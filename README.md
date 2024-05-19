@@ -24,7 +24,7 @@ I'm a front-end development student from Norway at Noroff School of Technology a
 - [LinkedIn](https://linkedin.com/in/veronica-brun-pedersen-2860bb249)
   
 ## 🌟 Interests
-- 🏠 Interiør
-- 💪 Trening
+- 🏠 Interior design
+- 💪 Training
 - 🎨 UI/UX Design
-
+- ☕ Coffee
