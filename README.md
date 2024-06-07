@@ -26,6 +26,7 @@ I'm a front-end development student from Norway at Noroff School of Technology a
 Feel free to reach out to me for any inquiries or collaboration opportunities:
 - **Email:** [vbpedersen@outlook.com](mailto:your-email@example.com)
 - **LinkedIn:** [LinkedIn](https://linkedin.com/in/veronica-brun-pedersen-2860bb249)
+- **Portfolio:** [https://portfoliobyveronicabp.netlify.app/].
   
 ## 🌟 Interests
 - 🏠 Interior design
