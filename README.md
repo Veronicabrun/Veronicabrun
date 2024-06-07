@@ -37,7 +37,7 @@ Feel free to reach out to me for any inquiries or collaboration opportunities:
 
 ## ⚡Fun fact: 
 
-Terrified of spiders 🕷️
-Likes rock music 🤘
-Fear of heights (but has bungee jumped) 🧗‍♂️
+- Terrified of spiders 🕷️
+- Likes rock music 🤘
+- Fear of heights (but has bungee jumped) 🧗‍♂️
 
