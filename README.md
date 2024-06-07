@@ -29,7 +29,15 @@ Feel free to reach out to me for any inquiries or collaboration opportunities:
 - **Portfolio:** https://portfoliobyveronicabp.netlify.app/
   
 ## 🌟 Interests
+
 - 🏠 Interior design
 - 💪 Training
 - 🎨 UI/UX Design
 - ☕ Coffee
+
+## ⚡Fun fact: 
+
+Terrified of spiders 🕷️
+Likes rock music 🤘
+Fear of heights (but has bungee jumped) 🧗‍♂️
+
