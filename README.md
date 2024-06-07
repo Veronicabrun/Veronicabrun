@@ -20,8 +20,12 @@ I'm a front-end development student from Norway at Noroff School of Technology a
 - Content Management Systems
 
 ## 📫 How to reach me
-- Email: vbpedersen@outlook.com
-- [LinkedIn](https://linkedin.com/in/veronica-brun-pedersen-2860bb249)
+
+## Contact
+
+Feel free to reach out to me for any inquiries or collaboration opportunities:
+- **Email:** [vbpedersen@outlook.com](mailto:your-email@example.com)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/veronica-brun-pedersen-2860bb249)
   
 ## 🌟 Interests
 - 🏠 Interior design
