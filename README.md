@@ -1,43 +1,78 @@
-### Hi there, I'm Veronica  👋
+# Hi there, I'm Veronica 👋
 
-I'm a front-end development student from Norway at Noroff School of Technology and Digital Media with a strong interest in UI/UX Design. Currently, I'm studying front-end development part-time alongside my full-time job and working on various projects to hone my skills. 🔍 I'm also actively looking for job opportunities alongside my studies. I've just completed my first year and have the final year ahead of me.⚡
+I'm a frontend developer from Norway with a strong passion for UI/UX design, responsive web development and creating modern digital experiences.
 
-## 🔭 Projects
+I recently completed my Frontend Development education at Noroff School of Technology and Digital Media, where I worked on multiple frontend projects using React, JavaScript, Tailwind CSS, Bootstrap and modern development tools.
 
-- [Community Science Museum](https://github.com/Veronicabrun/Semester-Project-1)
-- [Rainydays](https://github.com/Veronicabrun/Rainydays-JS)
-- More projects coming soon...
-  
-## 🌱 What I've learnt so far
+I enjoy combining design and development to create user-friendly, responsive and visually engaging applications.
 
-- Interaction Design
-- UI/UX Design
-- Adobe XD
-- GitHub
-- HTML
-- CSS
-- JavaScript
-- Content Management Systems
+I'm currently looking for opportunities within frontend development and UI-focused work.
 
-## 📫 How to reach me
+---
 
-## Contact
+## 🚀 Featured Projects
 
-Feel free to reach out to me for any inquiries or collaboration opportunities:
-- **Email:** [vbpedersen@outlook.com](mailto:your-email@example.com)
-- **LinkedIn:** [LinkedIn](https://linkedin.com/in/veronica-brun-pedersen-2860bb249)
-- **Portfolio:** https://portfoliobyveronicabp.netlify.app/
-  
-## 🌟 Interests
+* [Holidaze – Venue Booking Application](https://github.com/Veronicabrun/project-exam-2-holidaze)
+* [Nordic eCommerce Store](https://github.com/Veronicabrun/react-ecom-store)
+* [Semester Project 2 – Auction Website](https://github.com/Veronicabrun/semester-project-2)
+* [Community Science Museum](https://github.com/Veronicabrun/Semester-Project-1)
+* [Rainydays](https://github.com/Veronicabrun/Rainydays-JS)
 
-- 🏠 Interior design
-- 💪 Training
-- 🎨 UI/UX Design
-- ☕ Coffee
+---
 
-## ⚡Fun fact: 
+## 🛠️ Technologies & Tools
 
-- Terrified of spiders 🕷️
-- Likes rock music 🤘
+* HTML5
+* CSS3
+* JavaScript
+* React
+* React Router
+* Tailwind CSS
+* Bootstrap 5
+* Sass / SCSS
+* Vite
+* Git & GitHub
+* Netlify
+* REST APIs
+* React Hook Form
+* Yup Validation
+* Vitest
+* Playwright
+* ESLint & Prettier
+* Adobe XD
+* Canva
+* WordPress
+* Hotjar
+* UI/UX Design
+* Responsive Design
+* Accessibility (WCAG)
+
+---
+
+## 🌐 Portfolio & Contact
+
+* **Portfolio:** https://veronicabp-portfolio.netlify.app/
+* **Portfolio Repository:** https://github.com/Veronicabrun/portfolio2.git
+* **LinkedIn:** https://linkedin.com/in/veronica-brun-pedersen-2860bb249
+* **GitHub:** https://github.com/Veronicabrun
+* **Email:** [vbpedersen@outlook.com](mailto:vbpedersen@outlook.com)
+
+---
+
+## 🎨 Interests
+
+* UI/UX Design
+* Frontend Development
+* Interior Design
+* Training
+* Coffee
+
+---
+
+## ⚡ Fun Facts
+
+* Terrified of spiders 🕷️
+* Loves rock music 🤘
+* Passionate about visual details and modern interfaces
 
 
