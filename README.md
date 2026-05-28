@@ -22,13 +22,13 @@ I'm currently looking for opportunities within frontend development and UI-focus
 
 ## 🛠️ Technologies & Tools
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * React
 * React Router
 * Tailwind CSS
-* Bootstrap 5
+* Bootstrap 
 * Sass / SCSS
 * Vite
 * Git & GitHub
